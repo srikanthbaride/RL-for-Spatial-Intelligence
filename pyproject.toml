@@ -1,0 +1,17 @@
+[project]
+name = "rl-for-spatial-intelligence"
+version = "0.1.0"
+description = "RL agents for spatial co-location discovery on toy grid environments."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "Srikanth Baride"}]
+dependencies = [
+    "gymnasium>=0.29",
+    "numpy>=1.25",
+    "matplotlib>=3.7",
+    "streamlit>=1.30"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

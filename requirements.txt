@@ -1,0 +1,5 @@
+gymnasium>=0.29
+numpy>=1.25
+matplotlib>=3.7
+streamlit>=1.30
+pytest>=7.4
