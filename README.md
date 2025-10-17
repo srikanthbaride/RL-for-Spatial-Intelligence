@@ -3,7 +3,7 @@
 **Purpose:** Bridge Reinforcement Learning with Spatial Data Mining.  
 Agents learn **spatial co-location discovery policies** in toy grid environments and (optionally) integrate with `colocationpy`.
 
-> Hiring value: Novel AI × Geospatial theme → relevant to NVIDIA Spatial AI, KAUST/MBZUAI, and applied research labs.
+> Novel AI × Geospatial theme → relevant to NVIDIA Spatial AI, KAUST/MBZUAI, and applied research labs.
 
 ---
 
