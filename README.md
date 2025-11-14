@@ -71,22 +71,6 @@ pytest -q
 
 ---
 
-## 🧩 Colocation Integration (Optional)
-
-If you have `colocationpy` available (or this repo in development), use the adapter:
-
-```python
-from rl_spatial.integration.colocationpy_adapter import ColocationAdapter
-
-adapter = ColocationAdapter()
-pairs = adapter.mine_colocations(points=[(1,2,'A'), (3,4,'B')], radius=2.0, min_prev=0.2)
-print(pairs)
-```
-
-> The adapter is a **shim** so you can later drop in a real implementation (API names noted inside the file).
-
----
-
 ## 📄 Citation
 
 If you use this repo in research/teaching, please cite:
