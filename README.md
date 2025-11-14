@@ -1,7 +1,7 @@
 # RL-for-Spatial-Intelligence
 
 **Purpose:** Bridge Reinforcement Learning with Spatial Data Mining.  
-Agents learn **spatial co-location discovery policies** in toy grid environments and (optionally) integrate with `colocationpy`.
+Agents learn **spatial co-location discovery policies** in toy grid environments.
 
 ---
 
